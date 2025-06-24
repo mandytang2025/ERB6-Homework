@@ -1,0 +1,5 @@
+id,foodie_name,updated_date,gender,age_range,occupation,live_district,favor_chinese,favor_western,favor_veg,favor_organic,favor_japan,favor_korean,favor_thai,favor_seafood,favor_muslim,favor_no_beef,favor_no_pork,foodie_desc,foodie_photo,is_mvp,user_id
+1,kellychan,2025-06-21 00:09:00.203521+08:00,Female,36-45,office,Central & Western,True,False,False,False,False,False,False,False,False,False,False,Executive for +15 years,foodie_Photos/f1.jpg,False,3
+2,tomtom,2025-06-21 00:10:18.639479+08:00,Male,46-55,other,Sham Shui Po,True,False,False,False,False,False,False,False,False,False,False,AAA,foodie_Photos/f2.jpg,False,2
+3,foodie1,2025-06-21 16:07:24.421245+08:00,Male,36-45,office,Central & Western,False,False,False,False,False,False,False,False,False,False,False,AAA,foodie_Photos/f3.jpg,False,4
+4,foodie2,2025-06-23 21:26:18.199976+08:00,Male,18-25,office,Central & Western,True,False,False,False,False,False,False,False,False,False,False,AAA,foodie_Photos/f4.jpg,False,5
