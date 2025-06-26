@@ -1,0 +1,21 @@
+id,password,last_login,is_superuser,username,first_name,last_name,email,is_staff,is_active,date_joined
+1,pbkdf2_sha256$1000000$wphWwcAw6q6boUX6qA8GEH$q7M6cjmf0AEQlNiIugRSPkumBfBQPoSutzEv890YzsQ=,2025-06-21 16:24:15.054651+08:00,True,mt,Mandy,Tang,mandy@abc.com,True,True,2025-06-17 14:20:52.598948+08:00
+2,pbkdf2_sha256$1000000$wphWwcAw6q6boUX6qA8GEH$q7M6cjmf0AEQlNiIugRSPkumBfBQPoSutzEv890YzsQ=,2025-06-21 16:24:15.054651+08:00,False,User1,user1,user1,user1@abc.com,False,True,2025-06-17 14:20:52.598948+08:00
+3,pbkdf2_sha256$1000000$wphWwcAw6q6boUX6qA8GEH$q7M6cjmf0AEQlNiIugRSPkumBfBQPoSutzEv890YzsQ=,2025-06-21 16:24:15.054651+08:00,False,User2,user2,user2,user2@abc.com,False,True,2025-06-17 14:20:52.598948+08:00
+4,pbkdf2_sha256$1000000$wphWwcAw6q6boUX6qA8GEH$q7M6cjmf0AEQlNiIugRSPkumBfBQPoSutzEv890YzsQ=,2025-06-21 16:24:15.054651+08:00,False,User3,user3,user3,user3@abc.com,False,True,2025-06-17 14:20:52.598948+08:00
+5,pbkdf2_sha256$1000000$wphWwcAw6q6boUX6qA8GEH$q7M6cjmf0AEQlNiIugRSPkumBfBQPoSutzEv890YzsQ=,2025-06-21 16:24:15.054651+08:00,False,User4,user4,user4,user4@abc.com,False,True,2025-06-17 14:20:52.598948+08:00
+6,pbkdf2_sha256$1000000$wphWwcAw6q6boUX6qA8GEH$q7M6cjmf0AEQlNiIugRSPkumBfBQPoSutzEv890YzsQ=,2025-06-21 16:24:15.054651+08:00,False,User5,user5,user5,user5@abc.com,False,True,2025-06-17 14:20:52.598948+08:00
+7,pbkdf2_sha256$1000000$wphWwcAw6q6boUX6qA8GEH$q7M6cjmf0AEQlNiIugRSPkumBfBQPoSutzEv890YzsQ=,2025-06-21 16:24:15.054651+08:00,False,User6,user6,user6,user6@abc.com,False,True,2025-06-17 14:20:52.598948+08:00
+8,pbkdf2_sha256$1000000$wphWwcAw6q6boUX6qA8GEH$q7M6cjmf0AEQlNiIugRSPkumBfBQPoSutzEv890YzsQ=,2025-06-21 16:24:15.054651+08:00,False,User7,user7,user7,user7@abc.com,False,True,2025-06-17 14:20:52.598948+08:00
+9,pbkdf2_sha256$1000000$wphWwcAw6q6boUX6qA8GEH$q7M6cjmf0AEQlNiIugRSPkumBfBQPoSutzEv890YzsQ=,2025-06-21 16:24:15.054651+08:00,False,User8,user8,user8,user8@abc.com,False,True,2025-06-17 14:20:52.598948+08:00
+10,pbkdf2_sha256$1000000$wphWwcAw6q6boUX6qA8GEH$q7M6cjmf0AEQlNiIugRSPkumBfBQPoSutzEv890YzsQ=,2025-06-21 16:24:15.054651+08:00,False,User9,user9,user9,user9@abc.com,False,True,2025-06-17 14:20:52.598948+08:00
+11,pbkdf2_sha256$1000000$wphWwcAw6q6boUX6qA8GEH$q7M6cjmf0AEQlNiIugRSPkumBfBQPoSutzEv890YzsQ=,2025-06-21 16:24:15.054651+08:00,False,User10,user10,user10,user10@abc.com,False,True,2025-06-17 14:20:52.598948+08:00
+12,pbkdf2_sha256$1000000$wphWwcAw6q6boUX6qA8GEH$q7M6cjmf0AEQlNiIugRSPkumBfBQPoSutzEv890YzsQ=,2025-06-21 16:24:15.054651+08:00,False,User11,user11,user11,user11@abc.com,False,True,2025-06-17 14:20:52.598948+08:00
+13,pbkdf2_sha256$1000000$wphWwcAw6q6boUX6qA8GEH$q7M6cjmf0AEQlNiIugRSPkumBfBQPoSutzEv890YzsQ=,2025-06-21 16:24:15.054651+08:00,False,User12,user12,user12,user12@abc.com,False,True,2025-06-17 14:20:52.598948+08:00
+14,pbkdf2_sha256$1000000$wphWwcAw6q6boUX6qA8GEH$q7M6cjmf0AEQlNiIugRSPkumBfBQPoSutzEv890YzsQ=,2025-06-21 16:24:15.054651+08:00,False,User13,user13,user13,user13@abc.com,False,True,2025-06-17 14:20:52.598948+08:00
+15,pbkdf2_sha256$1000000$wphWwcAw6q6boUX6qA8GEH$q7M6cjmf0AEQlNiIugRSPkumBfBQPoSutzEv890YzsQ=,2025-06-21 16:24:15.054651+08:00,False,User14,user14,user14,user14@abc.com,False,True,2025-06-17 14:20:52.598948+08:00
+16,pbkdf2_sha256$1000000$wphWwcAw6q6boUX6qA8GEH$q7M6cjmf0AEQlNiIugRSPkumBfBQPoSutzEv890YzsQ=,2025-06-21 16:24:15.054651+08:00,False,User15,user15,user15,user15@abc.com,False,True,2025-06-17 14:20:52.598948+08:00
+17,pbkdf2_sha256$1000000$wphWwcAw6q6boUX6qA8GEH$q7M6cjmf0AEQlNiIugRSPkumBfBQPoSutzEv890YzsQ=,2025-06-21 16:24:15.054651+08:00,False,User16,user16,user16,user16@abc.com,False,True,2025-06-17 14:20:52.598948+08:00
+18,pbkdf2_sha256$1000000$wphWwcAw6q6boUX6qA8GEH$q7M6cjmf0AEQlNiIugRSPkumBfBQPoSutzEv890YzsQ=,2025-06-21 16:24:15.054651+08:00,False,User17,user17,user17,user17@abc.com,False,True,2025-06-17 14:20:52.598948+08:00
+19,pbkdf2_sha256$1000000$wphWwcAw6q6boUX6qA8GEH$q7M6cjmf0AEQlNiIugRSPkumBfBQPoSutzEv890YzsQ=,2025-06-21 16:24:15.054651+08:00,False,User18,user18,user18,user18@abc.com,False,True,2025-06-17 14:20:52.598948+08:00
+20,pbkdf2_sha256$1000000$wphWwcAw6q6boUX6qA8GEH$q7M6cjmf0AEQlNiIugRSPkumBfBQPoSutzEv890YzsQ=,2025-06-21 16:24:15.054651+08:00,False,User19,user19,user19,user19@abc.com,False,True,2025-06-17 14:20:52.598948+08:00

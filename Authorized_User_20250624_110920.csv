@@ -1,6 +1,0 @@
-id,password,last_login,is_superuser,username,first_name,last_name,email,is_staff,is_active,date_joined
-3,pbkdf2_sha256$1000000$70dGIktF3zqnFgZh2tbqlz$On/X2mC5NJXeemJHYS5S2zAjQISmMYpug0bm1tAyBc8=,2025-06-21 12:45:14.425780+08:00,False,kellychan,kelly,Lam,kellychan@abc.com,False,True,2025-06-20 23:37:41.277390+08:00
-4,pbkdf2_sha256$1000000$O7Cmm4fXelinTnuoXOWKfs$2FlPHMtDsXTHU3EwFqi17tCTIth7alP0e7GXx3Syl6Q=,2025-06-21 16:23:08.434182+08:00,False,foodie1,foodie,Lam,foodie1@abc.com,False,True,2025-06-21 16:06:25.615224+08:00
-5,pbkdf2_sha256$1000000$amZfgXV3VUbKwOt8zLrmrO$OZ+k1Tp+Lx5XzKVPCBm0/vIB//4doTFw7LcgXQ21jjk=,2025-06-23 21:25:56.012740+08:00,False,foodie2,foodie2,food,foodie2@abc.com,False,True,2025-06-23 21:25:55.888108+08:00
-1,pbkdf2_sha256$1000000$wphWwcAw6q6boUX6qA8GEH$q7M6cjmf0AEQlNiIugRSPkumBfBQPoSutzEv890YzsQ=,2025-06-21 16:24:15.054651+08:00,True,mt,Mandy,Tang,mandy@abc.com,True,True,2025-06-17 14:20:52.598948+08:00
-2,pbkdf2_sha256$1000000$hoPpALrADS5mDLRb3LYeoQ$+E8x7XkvPe9PVgaUaZrjehOVvqGYpH6hoLtvFftYCW4=,2025-06-21 00:09:19.560905+08:00,False,tomtom,Tom,Lam,tomcheung@abc.com,False,True,2025-06-20 23:29:28.352771+08:00
